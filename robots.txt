@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lubhons.github.io/sitemap.html.gz
+Sitemap: https://lubhons.github.io/app/sitemap.html.gz
+Sitemap: https://lubhons.github.io/assets/sitemap.html.gz
+Sitemap: https://lubhons.github.io/css/sitemap.html.gz
+Sitemap: https://lubhons.github.io/includes/sitemap.html.gz
+Sitemap: https://lubhons.github.io/item/sitemap.html.gz
+Sitemap: https://lubhons.github.io/src/sitemap.html.gz
